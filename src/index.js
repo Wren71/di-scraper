@@ -13,8 +13,6 @@ ReactDOM.render(
   <React.StrictMode>
     <Router>
       <App></App>
-      <Switch>
-      </Switch>
     </Router>
   </React.StrictMode>,
   document.getElementById("root")
